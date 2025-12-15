@@ -22,7 +22,7 @@ Download from:
  * [Planet Minecraft](https://www.planetminecraft.com/texture-pack/custom-wandering-trader-voices/)
  * [Github](https://github.com/AnonJr/Minecraft-Wandering-Trader-Voices/releases)
  * [Archive.org](https://archive.org/details/Custom_Wandering_Trader_Voices-v1.0.0)
- * [From AnonJr.com directly](/downloads/Custom_Wandering_Trader_Sounds_v1.0.0.zip)
+ * [From AnonJr.com directly](https://www.anonjr.com/downloads/Custom_Wandering_Trader_Sounds_v1.0.0.zip)
 
 {% comment %}
 AnonJr's Creative Extras: https://vanillatweaks.net/share#oD2vVw

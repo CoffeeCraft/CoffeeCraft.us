@@ -5,7 +5,6 @@
     Everything : Mark Bussell Jr (AnonJr)
     Blog       : http://www.anonjr.com/
     Twitter    : @AnonJr
-    CV         : https://careers.stackoverflow.com/anonjr
 
 # SITE
 	Language   : English

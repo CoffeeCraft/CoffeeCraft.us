@@ -8,7 +8,7 @@ image:
 ---
 
 ## <i class="fas fa-mug-hot"></i> Coffee
-Arcaidius is known to have coffee in his cup of whipped cream, the coffee well levened with cream and a couple sugars.
+Arcaidius is known to have coffee in his cup of whipped cream, the coffee well leavened with cream and a couple sugars.
 
 ![Coffee, keep the whipped cream coming.](/assets/img/Arcaidius-CoffeeCrafting.png)
 
